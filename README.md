@@ -1,10 +1,11 @@
-Oie, eu sou a caroline!
+### Olá, sejam bem vindes! Sou Caroline, mas também podes me chamar de Carol
+<img src="https://imgur.com/Q1KCrbL" align="left" alt="imagem gupy carol" width="250"/>
 
+- 👩🏽‍💻  Atualmente estudando desenvolvimento FULL STACK na ONG [Generation Brasil](https://brazil.generation.org) 
 
-- 🔭 Hoje eu sou UX/UI designer
-- 🌱 Estudando Desenvolvimento Java
-- 😄 Pronouns: Ela/Dela
-##
+- 🌱 Aprendendo Java ☕ | Sql 🐬 | Spring 🍃 | Angular  🅰️
+
+- Pronouns: ela/dela/she/her
 
 <div>
   <a href="https://github.com/caroline-calixto">
