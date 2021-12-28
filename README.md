@@ -1,10 +1,9 @@
-## Olá, sejam bem vindes! Sou a Caroline, mas também podem me chamar de Carol
+## Olá, eu sou a Carol
 
 <img src="https://i.imgur.com/iWePMCC.jpg" align="left" alt="imagem gupy carol" width="250"/>
 
-- 👩🏽‍💻  Atualmente estudando desenvolvimento FULL STACK na ONG [Generation Brasil](https://brazil.generation.org) 
+- 👩🏽‍💻 Formada no Bootcamp da ONG [Generation Brasil](https://brazil.generation.org) 
 
-- 🌱 Aprendendo Java ☕ | Sql 🐬 | Spring 🍃 | Angular  🅰️
 
 - Pronouns: ela/dela/she/her
 
