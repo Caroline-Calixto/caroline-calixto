@@ -2,9 +2,10 @@
 
 ## Olá, eu sou a Caroline!
 
- - Desenvolvedora Front-End - Jr
+ - Desenvolvedora Front-End
 
  - Angular &  React
+ - Spring Boot
  
  - Bacharel em Ciencias contábeis - Anhembi Morumbi
 
