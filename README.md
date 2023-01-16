@@ -5,7 +5,6 @@
  - Desenvolvedora Front-End
 
  - Angular &  React
- - Spring Boot
  
  - Bacharel em Ciencias contábeis - Anhembi Morumbi
 
