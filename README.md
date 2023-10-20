@@ -21,7 +21,7 @@
 <div align="center">
   <a href="https://github.com/caroline-calixto">
   <img height="145em" max-width="100%" src="https://github-readme-stats.vercel.app/api?username=caroline-calixto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="145em" max-width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscila-aos&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="145em" max-width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-calixto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  ##
