@@ -4,7 +4,7 @@
 
 - ❤️ Apaixonada pelo desenvolvimento web e uma mente curiosa incansável.
 - 🎓 Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://descomplica.com.br">DESCOMPLICA</a>.
-- 🌱 &nbsp; Aprendendo mais sobre o **MUNDINHO NODEJS**.
+- 🌱 Aprendendo mais sobre o **MUNDINHO NODEJS**.
 
 <h3>Minhas Skills</h3>
 
